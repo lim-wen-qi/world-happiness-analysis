@@ -86,6 +86,8 @@ The reported R² indicates that the original model explained approximately 55.45
 - Explore more predictive features.
 - Use cross-validation to evaluate model stability.
 
-## Project Background
+## Project Context
 
-This project was completed as part of the **Programming with Data** module in the Bachelor of Science (Honours) in Computer Science programme at the University of London (SIM-UOL).
+Individual Programming with Data Project
+Bachelor of Science (Honours) in Computer Science
+University of London
